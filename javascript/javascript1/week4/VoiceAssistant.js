@@ -64,6 +64,8 @@ console.log(getReply("What is the date today?"));
 console.log(getReply("What is 12 * 12"));
 console.log(getReply("Set time for 4 minutes"));
 
+//I'll add more later :D 
+
 
 
 
